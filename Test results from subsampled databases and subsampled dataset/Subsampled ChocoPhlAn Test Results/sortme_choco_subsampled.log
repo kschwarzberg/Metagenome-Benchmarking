@@ -1,0 +1,31 @@
+ Fri Nov  7 11:24:09 2014
+
+ Command: sortmerna --reads /scratch-lt/ks2567/714subsampled_seqs_1-10.fna --ref /common/contrib/databases/repophlan_31122013_famcentroids_ffn/cleaned_choco/Cleaned_chocophlan_subsampled_0-01.fna,/scratch-lt/ks2567/benchmark_commands/cleaned_choco/sub_db_index_ch_benchmark/choco_indexed_sortmerna --aligned sortme_choco_subsampled --fastx --log 
+ Process pid = 64357
+ Parameters summary:
+    Index: /scratch-lt/ks2567/benchmark_commands/cleaned_choco/sub_db_index_ch_benchmark/choco_indexed_sortmerna
+     Seed length = 18
+     Pass 1 = 18, Pass 2 = 9, Pass 3 = 3
+     Gumbel lambda = 0.614865
+     Gumbel K = 0.339280
+     Minimal SW score based on E-value = 61
+    Number of seeds = 2
+    Edges = 4 (as integer)
+    SW match = 2
+    SW mismatch = -3
+    SW gap open penalty = 5
+    SW gap extend penalty = 2
+    SW ambiguous nucleotide = -3
+    SQ tags are not output
+    Number of threads = 1
+    Reads file = /scratch-lt/ks2567/714subsampled_seqs_1-10.fna
+
+ Results:
+    Total reads = 11324378
+    Total reads passing E-value threshold = 474203 (4.19%)
+    Total reads failing E-value threshold = 10850175 (95.81%)
+    Minimum read length = 76
+    Maximum read length = 251
+    Mean read length = 97
+ By database:
+    /common/contrib/databases/repophlan_31122013_famcentroids_ffn/cleaned_choco/Cleaned_chocophlan_subsampled_0-01.fna		4.19%

@@ -1,0 +1,31 @@
+ Wed Nov 12 15:04:02 2014
+
+ Command: sortmerna --reads /scratch-lt/ks2567/714subsampled_seqs_1-10.fna --ref removed_shortseqs_removed_repeats_IMGv400_subsampled_0-01.fna,/scratch-lt/ks2567/benchmark_commands/cleaned_IMG/sub_db_benchmark/IMG_indexed_sortmerna2 --aligned sortme_IMG_subsampled2 --fastx --log 
+ Process pid = 40153
+ Parameters summary:
+    Index: /scratch-lt/ks2567/benchmark_commands/cleaned_IMG/sub_db_benchmark/IMG_indexed_sortmerna2
+     Seed length = 18
+     Pass 1 = 18, Pass 2 = 9, Pass 3 = 3
+     Gumbel lambda = 0.617753
+     Gumbel K = 0.340278
+     Minimal SW score based on E-value = 63
+    Number of seeds = 2
+    Edges = 4 (as integer)
+    SW match = 2
+    SW mismatch = -3
+    SW gap open penalty = 5
+    SW gap extend penalty = 2
+    SW ambiguous nucleotide = -3
+    SQ tags are not output
+    Number of threads = 1
+    Reads file = /scratch-lt/ks2567/714subsampled_seqs_1-10.fna
+
+ Results:
+    Total reads = 11324378
+    Total reads passing E-value threshold = 683207 (6.03%)
+    Total reads failing E-value threshold = 10641171 (93.97%)
+    Minimum read length = 76
+    Maximum read length = 251
+    Mean read length = 97
+ By database:
+    removed_shortseqs_removed_repeats_IMGv400_subsampled_0-01.fna		6.03%

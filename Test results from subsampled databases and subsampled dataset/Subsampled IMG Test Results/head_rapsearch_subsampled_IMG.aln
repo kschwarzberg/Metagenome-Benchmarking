@@ -1,0 +1,1000 @@
+4477904.3.37501_5257426 vs 637176180 bits=29.6462 log(E-value)=0.974489 identity=50% aln-len=26 mismatch=13 gap-openings=0 nFrame=1
+Query:	         8 STPPTACRRSASSWTRTSTGAAAGCS 85
+      	       +T  T C   A++ T T+TGAAAGC+
+Sbjct:	       192 ATTCTTCGACAATCTTTTTGAAAGCT 217
+
+4477904.3.37501_5257426 vs 642565594 bits=29.6462 log(E-value)=0.974489 identity=52% aln-len=25 mismatch=12 gap-openings=0 nFrame=1
+Query:	        11 TPPTACRRSASSWTRTSTGAAAGCS 85
+      	       T  TAC  +A+    T+TGAAAGC+
+Sbjct:	       144 TTTTACAGAAAGAATTTTGAAAGCT 168
+
+4477904.3.37501_5259791 vs 639332186 bits=30.8018 log(E-value)=0.625092 identity=41.9355% aln-len=31 mismatch=18 gap-openings=0 nFrame=4
+Query:	        99 AAATRSSAAGGASASTTSCRPPSTASGSASS 7
+      	       AAA  +   GGA+A+TT+C   + A+G A++
+Sbjct:	    917000 AAAATTCTGGGATATTTTCTATTAATGGATA 917030
+
+4477904.3.37501_5259791 vs 2004175085 bits=30.8018 log(E-value)=0.625092 identity=45.1613% aln-len=31 mismatch=17 gap-openings=0 nFrame=4
+Query:	        99 AAATRSSAAGGASASTTSCRPPSTASGSASS 7
+      	       AAA  ++AAGGA+A+TT+C   +T + +A++
+Sbjct:	       654 AAACGATAAGGATATTTTCCTTTTGATAAAA 684
+
+4477904.3.37501_5259791 vs 2004047710 bits=30.4166 log(E-value)=0.741049 identity=41.9355% aln-len=31 mismatch=18 gap-openings=0 nFrame=4
+Query:	        99 AAATRSSAAGGASASTTSCRPPSTASGSASS 7
+      	       A  T +  AGGA+A+TT+C   + A G+A++
+Sbjct:	       480 ACGTTACCAGGATATTTTCGGAAAAGGAAAT 510
+
+4477904.3.37501_5259791 vs 2004039943 bits=30.0314 log(E-value)=0.857006 identity=45.1613% aln-len=31 mismatch=17 gap-openings=0 nFrame=4
+Query:	        99 AAATRSSAAGGASASTTSCRPPSTASGSASS 7
+      	       A AT + AAGGA+A+TT+C   + A+  A++
+Sbjct:	       261 ACATCTGAAGGATATTTTCCTTAAAATGATT 291
+
+4477904.3.37501_5259791 vs 639488343 bits=30.0314 log(E-value)=0.857006 identity=43.3333% aln-len=30 mismatch=17 gap-openings=0 nFrame=4
+Query:	        96 AATRSSAAGGASASTTSCRPPSTASGSASS 7
+      	       A T ++  GGA+A+TT+C    TA G A++
+Sbjct:	      8928 ATTTAAGCGGATATTTTCCCTGTAGGGAAT 8957
+
+4477904.3.37501_5259791 vs 643607052 bits=29.6462 log(E-value)=0.972962 identity=40% aln-len=30 mismatch=18 gap-openings=0 nFrame=4
+Query:	        96 AATRSSAAGGASASTTSCRPPSTASGSASS 7
+      	       A T ++ AGGA+A+TT+C   + A+G  ++
+Sbjct:	      1506 AGTAAACAGGATATTTTCATTTGAAGGGTA 1535
+
+4477904.3.37501_5259791 vs 639360494 bits=29.6462 log(E-value)=0.972962 identity=41.9355% aln-len=31 mismatch=18 gap-openings=0 nFrame=4
+Query:	        99 AAATRSSAAGGASASTTSCRPPSTASGSASS 7
+      	       A  T + AAGGA+A+TT+C    TA+ + ++
+Sbjct:	     49942 ATGTCTGAAGGATATTTTCACTGTATATGTT 49972
+
+4477904.3.37501_5259791 vs 2099121011 bits=29.6462 log(E-value)=0.972962 identity=44.8276% aln-len=29 mismatch=16 gap-openings=0 nFrame=4
+Query:	        96 AATRSSAAGGASASTTSCRPPSTASGSAS 10
+      	       A T  + AGGA+A+TT+C    TA+  A+
+Sbjct:	      1321 ACTGGTGAGGATATTTTCTATGTAAACAA 1349
+
+4477904.3.37501_5259791 vs 2263371653 bits=29.6462 log(E-value)=0.972962 identity=43.3333% aln-len=30 mismatch=17 gap-openings=0 nFrame=4
+Query:	        99 AAATRSSAAGGASASTTSCRPPSTASGSAS 10
+      	       A A    A GGA+A+TT+C   +TA+G+ +
+Sbjct:	       532 AGAATCCACGGATATTTTCTGGATATGATT 561
+
+4477904.3.37501_5259791 vs 639360494 bits=29.6462 log(E-value)=0.972962 identity=41.9355% aln-len=31 mismatch=18 gap-openings=0 nFrame=4
+Query:	        99 AAATRSSAAGGASASTTSCRPPSTASGSASS 7
+      	       A  T + AAGGA+A+TT+C    TA+ + ++
+Sbjct:	     49942 ATGTCTGAAGGATATTTTCACTGTATATGTT 49972
+
+4477904.3.37501_5269807 vs 2096765060 bits=30.8018 log(E-value)=0.628141 identity=64.7059% aln-len=17 mismatch=6 gap-openings=0 nFrame=4
+Query:	        67 ARSGSTCGTTSSCSATC 17
+      	       A  G TCGTT++C+ATC
+Sbjct:	       666 ATCGGTCGTTTTCTATC 682
+
+4477904.3.37501_5269807 vs 649654410 bits=30.8018 log(E-value)=0.628141 identity=66.6667% aln-len=15 mismatch=5 gap-openings=0 nFrame=4
+Query:	        61 SGSTCGTTSSCSATC 17
+      	       +G+TCGTT++C+ATC
+Sbjct:	       414 TGATCGTTTTCTATC 428
+
+4477904.3.37501_5269807 vs 2511512241 bits=30.4166 log(E-value)=0.744097 identity=71.4286% aln-len=14 mismatch=4 gap-openings=0 nFrame=4
+Query:	        58 GSTCGTTSSCSATC 17
+      	       G+TCGTT++C+ATC
+Sbjct:	        66 GTTCGTTTTCTATC 79
+
+4477904.3.37501_5269807 vs 640291477 bits=30.4166 log(E-value)=0.744097 identity=71.4286% aln-len=14 mismatch=4 gap-openings=0 nFrame=4
+Query:	        58 GSTCGTTSSCSATC 17
+      	       G+TCGTT++C+ATC
+Sbjct:	       590 GTTCGTTTTCTATC 603
+
+4477904.3.37501_5269807 vs 2514736421 bits=30.0314 log(E-value)=0.860054 identity=71.4286% aln-len=14 mismatch=4 gap-openings=0 nFrame=4
+Query:	        58 GSTCGTTSSCSATC 17
+      	       G TCGTT++C+ATC
+Sbjct:	        72 GGTCGTTTTCTATC 85
+
+4477904.3.37501_5273869 vs 639332186 bits=30.4166 log(E-value)=0.741049 identity=56.5217% aln-len=23 mismatch=10 gap-openings=0 nFrame=5
+Query:	        71 AGTASSPTPATRRACGSATASAC 3
+      	       A TA++   AT  ACG+ATA+AC
+Sbjct:	    858117 AATATATATATATACGTATATAC 858139
+
+4477904.3.37501_5273869 vs 2507698735 bits=30.0314 log(E-value)=0.857006 identity=56.5217% aln-len=23 mismatch=10 gap-openings=0 nFrame=5
+Query:	        71 AGTASSPTPATRRACGSATASAC 3
+      	       AG  +  T AT  ACG+ATA+AC
+Sbjct:	      1361 AGACTGTTAATCTACGTATATAC 1383
+
+4477904.3.37501_5275792 vs 646364094 bits=30.0314 log(E-value)=0.857006 identity=60% aln-len=20 mismatch=8 gap-openings=0 nFrame=3
+Query:	        67 GASVIGIAPCSTATTSCGGS 8
+      	       GA+  G A C+TATT+CGG+
+Sbjct:	       500 GAATCGGAGCTTATTTCGGA 519
+
+4477904.3.37501_5276021 vs 2507963773 bits=32.3426 log(E-value)=0.161266 identity=50% aln-len=26 mismatch=13 gap-openings=0 nFrame=4
+Query:	        81 CSTTPCAGSSSATSTPCARSSTSASA 4
+      	       C+TT CAG+++AT+T  A ++T A+A
+Sbjct:	     26965 CATTGCAGTTTATTTTTATATTGATA 26990
+
+4477904.3.37501_5276021 vs 2505995825 bits=31.5722 log(E-value)=0.393179 identity=38.7097% aln-len=31 mismatch=19 gap-openings=0 nFrame=4
+Query:	        99 SALST.CSTTPCAGSSSATSTPCARSSTSAS 7
+      	       +A +T C+T  CAG+++AT+T C  ++ +A+
+Sbjct:	        16 TACTTGCTTATCAGTTTATTTTCTGTTATAA 46
+
+4477904.3.37501_5276021 vs 2508261692 bits=31.187 log(E-value)=0.509136 identity=41.9355% aln-len=31 mismatch=18 gap-openings=0 nFrame=4
+Query:	        96 ALST.CSTTPCAGSSSATSTPCARSSTSASA 4
+      	       A +T C+ T CAG+++AT+T C  ++T  +A
+Sbjct:	      9654 AAATTCAGTACAGTTTATTTACTCAATCGAA 9684
+
+4477904.3.37501_5276021 vs 2096740155 bits=30.8018 log(E-value)=0.625092 identity=50% aln-len=22 mismatch=11 gap-openings=0 nFrame=4
+Query:	        81 CSTTPCAGSSSATSTPCARSST 16
+      	       C TT CAG+++AT+T C  + T
+Sbjct:	      1274 CGTTTCAGTTTATTTTCTATGT 1295
+
+4477904.3.37501_5276021 vs 639438737 bits=30.4166 log(E-value)=0.741049 identity=38.7097% aln-len=31 mismatch=19 gap-openings=0 nFrame=4
+Query:	        99 SALST.CSTTPCAGSSSATSTPCARSSTSAS 7
+      	       +A +T C+T  CAG+++AT+T CA ++ + +
+Sbjct:	    295732 TATATTCATGGCAGTTTATTTGCAATAATCA 295762
+
+4477904.3.37501_5276021 vs 2508258044 bits=30.4166 log(E-value)=0.741049 identity=44% aln-len=25 mismatch=14 gap-openings=0 nFrame=4
+Query:	        81 CSTTPCAGSSSATSTPCARSSTSAS 7
+      	       C+ T CAG+++AT+T CA   T+ +
+Sbjct:	         6 CTATACAGTTTATTTTCAACCTTTT 30
+
+4477904.3.37501_5276021 vs 639438737 bits=30.4166 log(E-value)=0.741049 identity=38.7097% aln-len=31 mismatch=19 gap-openings=0 nFrame=4
+Query:	        99 SALST.CSTTPCAGSSSATSTPCARSSTSAS 7
+      	       +A +T C+T  CAG+++AT+T CA ++ + +
+Sbjct:	    295732 TATATTCATGGCAGTTTATTTGCAATAATCA 295762
+
+4477904.3.37501_5276021 vs 2507598908 bits=30.4166 log(E-value)=0.741049 identity=38.7097% aln-len=31 mismatch=19 gap-openings=0 nFrame=4
+Query:	        99 SALST.CSTTPCAGSSSATSTPCARSSTSAS 7
+      	       +A +T C+TT CAG+++AT+T    ++ +A+
+Sbjct:	        89 TAAATACATTTCAGTTTATTTAACAAAAAAT 119
+
+4477904.3.37501_5276021 vs 639488876 bits=30.0314 log(E-value)=0.857006 identity=42.3077% aln-len=26 mismatch=15 gap-openings=0 nFrame=4
+Query:	        81 CSTTPCAGSSSATSTPCARSSTSASA 4
+      	       C  T CAG+++AT+T C  ++ +A+A
+Sbjct:	     23809 CCATACAGTTTATTTTCCTATGTATA 23834
+
+4477904.3.37501_5276021 vs 639365006 bits=30.0314 log(E-value)=0.857006 identity=45.8333% aln-len=24 mismatch=13 gap-openings=0 nFrame=4
+Query:	        90 ST.CSTTPCAGSSSATSTPCARSS 19
+      	       +T C+TT CAG+++AT+T C  ++
+Sbjct:	      5497 ATTCTTTTCAGTTTATTTACTTTT 5520
+
+4477904.3.37501_5276021 vs 639380458 bits=29.6462 log(E-value)=0.972962 identity=45.8333% aln-len=24 mismatch=13 gap-openings=0 nFrame=4
+Query:	        78 STTPCAGSSSATSTPCARSSTSAS 7
+      	       +TT CAG+++AT+T CA ++ +A+
+Sbjct:	     65894 TTTGCAGTTTATTTTCAAATATAA 65917
+
+4477904.3.37501_5276021 vs 651499012 bits=29.6462 log(E-value)=0.972962 identity=42.3077% aln-len=26 mismatch=15 gap-openings=0 nFrame=4
+Query:	        81 CSTTPCAGSSSATSTPCARSSTSASA 4
+      	       C+   CAG+++AT+T CA ++  A+A
+Sbjct:	      3894 CAGAACAGTTTATTTGCAAAAAGATA 3919
+
+4477904.3.37501_5276021 vs 2513994474 bits=29.6462 log(E-value)=0.972962 identity=41.3793% aln-len=29 mismatch=17 gap-openings=0 nFrame=4
+Query:	        90 ST.CSTTPCAGSSSATSTPCARSSTSASA 4
+      	       +T C+TT CAG+++AT+T C  ++    A
+Sbjct:	       433 ATGCTTTCCAGTTTATTTCCCAATAGCCA 461
+
+4477904.3.37501_5276021 vs 639499189 bits=29.6462 log(E-value)=0.972962 identity=52.381% aln-len=21 mismatch=10 gap-openings=0 nFrame=4
+Query:	        66 CAGSSSATSTPCARSSTSASA 4
+      	       CAG+++AT+T CA ++T+A+A
+Sbjct:	      2036 CAGTTTATTTACAAAATTAAA 2056
+
+4477904.3.37501_5276955 vs 639628616 bits=33.8834 log(E-value)=-0.302561 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T++CA   A  T+CACCAGTA
+Sbjct:	      2362 TAACATGTACTTTCACCAGTA 2382
+
+4477904.3.37501_5276955 vs 645444269 bits=33.113 log(E-value)=-0.0706473 identity=65% aln-len=20 mismatch=7 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       + CAA  A  T+CACCAGTA
+Sbjct:	       740 AGCAATTATATTCACCAGTA 759
+
+4477904.3.37501_5276955 vs 643695446 bits=33.113 log(E-value)=-0.0706473 identity=65% aln-len=20 mismatch=7 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       + CAA  A  T+CACCAGTA
+Sbjct:	       740 AGCAATTATATTCACCAGTA 759
+
+4477904.3.37501_5276955 vs 649392798 bits=33.113 log(E-value)=-0.0706473 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T++CA    A T+CACCAGTA
+Sbjct:	        55 TTACAGTGGAGTTCACCAGTA 75
+
+4477904.3.37501_5276955 vs 643649514 bits=31.9574 log(E-value)=0.277223 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T  C A  A  T+CACCAGTA
+Sbjct:	       705 TGCCTATGAGGTTCACCAGTA 725
+
+4477904.3.37501_5276955 vs 649131244 bits=31.9574 log(E-value)=0.277223 identity=60% aln-len=20 mismatch=8 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       ++C A  A  T+CACCAGTA
+Sbjct:	     19561 TTCTACTAGTTTCACCAGTA 19580
+
+4477904.3.37501_5276955 vs 646431108 bits=31.5722 log(E-value)=0.393179 identity=57.1429% aln-len=21 mismatch=9 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T +C     A T+CACCAGTA
+Sbjct:	       637 TCACTGTTTATTTCACCAGTA 657
+
+4477904.3.37501_5276955 vs 639335848 bits=31.5722 log(E-value)=0.393179 identity=60% aln-len=20 mismatch=8 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       ++CA    A T+CACCAGTA
+Sbjct:	     61515 AACACAATATTTCACCAGTA 61534
+
+4477904.3.37501_5276955 vs 2507688162 bits=31.5722 log(E-value)=0.393179 identity=63.1579% aln-len=19 mismatch=7 gap-openings=0 nFrame=1
+Query:	        23 SCAAWRAARTSCACCAGTA 79
+      	       +CA   A  T+CACCAGTA
+Sbjct:	     25685 TCAGGAAGTTTCACCAGTA 25703
+
+4477904.3.37501_5276955 vs 639387722 bits=31.187 log(E-value)=0.509136 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T++ A   AA T+CACCAGTA
+Sbjct:	    349715 TTAAATTAAACTTCACCAGTA 349735
+
+4477904.3.37501_5276955 vs 639454508 bits=31.187 log(E-value)=0.509136 identity=57.1429% aln-len=21 mismatch=9 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T  CA      T+CACCAGTA
+Sbjct:	      6589 TGCCACGTTGTTTCACCAGTA 6609
+
+4477904.3.37501_5276955 vs 644168586 bits=31.187 log(E-value)=0.509136 identity=60% aln-len=20 mismatch=8 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       + C    AA T+CACCAGTA
+Sbjct:	       699 TGCTCTGAAATTCACCAGTA 718
+
+4477904.3.37501_5276955 vs 2263431618 bits=31.187 log(E-value)=0.509136 identity=60% aln-len=20 mismatch=8 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       ++CA   A  T+CACCAGTA
+Sbjct:	        97 TTCATTAATCTTCACCAGTA 116
+
+4477904.3.37501_5276955 vs 649764041 bits=31.187 log(E-value)=0.509136 identity=60% aln-len=20 mismatch=8 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       ++C    AA T+CACCAGTA
+Sbjct:	       407 ATCCCAGAAATTCACCAGTA 426
+
+4477904.3.37501_5276955 vs 639494454 bits=31.187 log(E-value)=0.509136 identity=57.1429% aln-len=21 mismatch=9 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T+ C     A T+CACCAGTA
+Sbjct:	     22771 TTCCGGCTCAGTTCACCAGTA 22791
+
+4477904.3.37501_5276955 vs 2507814209 bits=30.8018 log(E-value)=0.625092 identity=63.1579% aln-len=19 mismatch=7 gap-openings=0 nFrame=1
+Query:	        23 SCAAWRAARTSCACCAGTA 79
+      	       +CAA     T+CACCAGTA
+Sbjct:	      4217 ACAACACCCTTCACCAGTA 4235
+
+4477904.3.37501_5276955 vs 646578553 bits=30.8018 log(E-value)=0.625092 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T++ AA  A  T+CACCAGTA
+Sbjct:	       759 TTTTAACTACCTTCACCAGTA 779
+
+4477904.3.37501_5276955 vs 650838869 bits=30.8018 log(E-value)=0.625092 identity=66.6667% aln-len=18 mismatch=6 gap-openings=0 nFrame=1
+Query:	        26 CAAWRAARTSCACCAGTA 79
+      	       C A  A  T+CACCAGTA
+Sbjct:	       416 CTAAAATATTCACCAGTA 433
+
+4477904.3.37501_5276955 vs 643183222 bits=30.8018 log(E-value)=0.625092 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T +  A  AA T+CACCAGTA
+Sbjct:	       961 TGTTCAAAAAATTCACCAGTA 981
+
+4477904.3.37501_5276955 vs 641653633 bits=30.4166 log(E-value)=0.741049 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T++ A   AA T+CACCAGTA
+Sbjct:	        19 TTAGATAAAAATTCACCAGTA 39
+
+4477904.3.37501_5276955 vs 645759364 bits=30.4166 log(E-value)=0.741049 identity=52.381% aln-len=21 mismatch=10 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T++C       T+CACCAGTA
+Sbjct:	       347 TAACGTTGTCTTTCACCAGTA 367
+
+4477904.3.37501_5276955 vs 639385781 bits=30.4166 log(E-value)=0.741049 identity=57.1429% aln-len=21 mismatch=9 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T +CA      T+CACCAGTA
+Sbjct:	     69266 TCACATTGGCCTTCACCAGTA 69286
+
+4477904.3.37501_5276955 vs 2053616857 bits=30.4166 log(E-value)=0.741049 identity=60% aln-len=20 mismatch=8 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       + C    AA T+CACCAGTA
+Sbjct:	       295 AGCCTTGAACTTCACCAGTA 314
+
+4477904.3.37501_5276955 vs 643295040 bits=30.0314 log(E-value)=0.857006 identity=55% aln-len=20 mismatch=9 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       ++C     A T+CACCAGTA
+Sbjct:	      1736 TACTCATCAATTCACCAGTA 1755
+
+4477904.3.37501_5276955 vs 639335848 bits=29.6462 log(E-value)=0.972962 identity=50% aln-len=28 mismatch=14 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTANRFVPSA 100
+      	       T++ AA  A  T+CACCAGTA     +A
+Sbjct:	     61108 TTTGAAACAGGTTCACCAGTATATTTAA 61135
+
+4477904.3.37501_5276955 vs 644521678 bits=29.6462 log(E-value)=0.972962 identity=55% aln-len=20 mismatch=9 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       ++C    A  T+CACCAGTA
+Sbjct:	       623 AACCTGCAGATTCACCAGTA 642
+
+4477904.3.37501_5276955 vs 639387810 bits=29.6462 log(E-value)=0.972962 identity=48% aln-len=25 mismatch=13 gap-openings=0 nFrame=1
+Query:	        26 CAAWRAARTSCACCAGTANRFVPSA 100
+      	       C A     T+CACCAGTA     +A
+Sbjct:	     36107 CTAGGGTTTTCACCAGTAGTTTTAA 36131
+
+4477904.3.37501_5276955 vs 640087621 bits=29.6462 log(E-value)=0.972962 identity=55% aln-len=20 mismatch=9 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       ++C A     T+CACCAGTA
+Sbjct:	      1236 TTCCAGGCCGTTCACCAGTA 1255
+
+4477904.3.37501_5276955 vs 2507750643 bits=29.6462 log(E-value)=0.972962 identity=55% aln-len=20 mismatch=9 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       ++CA      T+CACCAGTA
+Sbjct:	      2264 TACATCATGCTTCACCAGTA 2283
+
+4477904.3.37501_5276955 vs 643917276 bits=29.6462 log(E-value)=0.972962 identity=55% aln-len=20 mismatch=9 gap-openings=0 nFrame=1
+Query:	        20 SSCAAWRAARTSCACCAGTA 79
+      	       ++CA      T+CACCAGTA
+Sbjct:	       718 TACATTTCCCTTCACCAGTA 737
+
+4477904.3.37501_5276955 vs 637013177 bits=29.6462 log(E-value)=0.972962 identity=57.1429% aln-len=21 mismatch=9 gap-openings=0 nFrame=1
+Query:	        17 TSSCAAWRAARTSCACCAGTA 79
+      	       T++ AA     T+CACCAGTA
+Sbjct:	       756 TTTAAAAGCCATTCACCAGTA 776
+
+4477904.3.37501_5285140 vs 2508428547 bits=30.0314 log(E-value)=0.857006 identity=48.1481% aln-len=27 mismatch=14 gap-openings=0 nFrame=3
+Query:	        82 CTTWLLSTGLAAPSTSATSGGCSRPPT 2
+      	       CTT   + G AA +T+AT+GGC+   T
+Sbjct:	     47706 CTTTATAAGGAAATTTATTGGCTTAAT 47732
+
+4477904.3.37501_5289432 vs 644127555 bits=31.187 log(E-value)=0.511804 identity=63.1579% aln-len=19 mismatch=7 gap-openings=0 nFrame=5
+Query:	        57 TSSATCAGATVRCTSATAG 1
+      	       T++ATCAGAT  CT+ T G
+Sbjct:	       365 TTTATCAGATTACTTTTCG 383
+
+4477904.3.37501_5289432 vs 2021696471 bits=30.8018 log(E-value)=0.627761 identity=63.1579% aln-len=19 mismatch=7 gap-openings=0 nFrame=5
+Query:	        57 TSSATCAGATVRCTSATAG 1
+      	       T++ATCAGAT  CT+  AG
+Sbjct:	         6 TTTATCAGATTTCTATAAG 24
+
+4477904.3.37501_5289432 vs 649123672 bits=30.4166 log(E-value)=0.743717 identity=68.4211% aln-len=19 mismatch=6 gap-openings=0 nFrame=5
+Query:	        57 TSSATCAGATVRCTSATAG 1
+      	       T++ATCAGAT  C  ATAG
+Sbjct:	       643 TTTATCAGATTCCCCATAG 661
+
+4477904.3.37501_5289432 vs 639340175 bits=30.4166 log(E-value)=0.743717 identity=66.6667% aln-len=18 mismatch=6 gap-openings=0 nFrame=5
+Query:	        57 TSSATCAGATVRCTSATA 4
+      	       T++ATCAGAT  CT+ TA
+Sbjct:	     91924 TTTATCAGATATCTATTA 91941
+
+4477904.3.37501_5289432 vs 2507707718 bits=30.0314 log(E-value)=0.859674 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=5
+Query:	        63 ARTSSATCAGATVRCTSATAG 1
+      	       A T++ATCAGAT  CT A  G
+Sbjct:	       396 ACTTTATCAGATCGCTGAAGG 416
+
+4477904.3.37501_5289432 vs 638476133 bits=30.0314 log(E-value)=0.859674 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=5
+Query:	        63 ARTSSATCAGATVRCTSATAG 1
+      	       A T++ATCAGAT   T+AT G
+Sbjct:	       465 ATTTTATCAGATAGATAATGG 485
+
+4477904.3.37501_5289432 vs 647832018 bits=29.6462 log(E-value)=0.975631 identity=63.1579% aln-len=19 mismatch=7 gap-openings=0 nFrame=5
+Query:	        57 TSSATCAGATVRCTSATAG 1
+      	       T++ATCAGAT  C +AT G
+Sbjct:	        45 TTTATCAGATCGCCAATGG 63
+
+4477904.3.37501_5289432 vs 646832895 bits=29.6462 log(E-value)=0.975631 identity=63.1579% aln-len=19 mismatch=7 gap-openings=0 nFrame=5
+Query:	        57 TSSATCAGATVRCTSATAG 1
+      	       T++ATCAGAT  C +A AG
+Sbjct:	        15 TTTATCAGATAACCAACAG 33
+
+4477904.3.37501_5289432 vs 639501584 bits=29.6462 log(E-value)=0.975631 identity=66.6667% aln-len=18 mismatch=6 gap-openings=0 nFrame=5
+Query:	        57 TSSATCAGATVRCTSATA 4
+      	       T++ATCAGAT  CT+A A
+Sbjct:	     33036 TTTATCAGATTTCTTACA 33053
+
+4477904.3.37501_5289432 vs 647107193 bits=29.6462 log(E-value)=0.975631 identity=63.1579% aln-len=19 mismatch=7 gap-openings=0 nFrame=5
+Query:	        63 ARTSSATCAGATVRCTSAT 7
+      	       A T++ATCAGAT  CT+ T
+Sbjct:	       370 AATTTATCAGATCACTATT 388
+
+4477904.3.37501_5289432 vs 2105648867 bits=29.6462 log(E-value)=0.975631 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=5
+Query:	        63 ARTSSATCAGATVRCTSATAG 1
+      	       A T++ATCAGAT    +ATAG
+Sbjct:	       102 ATTTTATCAGATTAACAATAG 122
+
+4477904.3.37501_5289432 vs 2508385008 bits=29.6462 log(E-value)=0.975631 identity=63.1579% aln-len=19 mismatch=7 gap-openings=0 nFrame=5
+Query:	        63 ARTSSATCAGATVRCTSAT 7
+      	       A T++ATCAGAT  CT  T
+Sbjct:	       170 AATTTATCAGATAACTGTT 188
+
+4477904.3.37501_5290293 vs 649560639 bits=39.2762 log(E-value)=-1.92595 identity=51.6129% aln-len=31 mismatch=15 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSCVTSRCSATDRKST 98
+      	       A A  +GATA+CGGAG+C T  C+ T   +T
+Sbjct:	      2504 AGAGGAGATATCGGAGTCATCACTTTTAGTT 2534
+
+4477904.3.37501_5290293 vs 2516367644 bits=37.3502 log(E-value)=-1.34617 identity=57.6923% aln-len=26 mismatch=11 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSCVTSRCSAT 83
+      	       A+A  + ATA+CGGAG+C T  C AT
+Sbjct:	        67 AAAGCAAATATCGGAGTCTTCGCGAT 92
+
+4477904.3.37501_5290293 vs 645895069 bits=37.3502 log(E-value)=-1.34617 identity=53.3333% aln-len=30 mismatch=14 gap-openings=0 nFrame=2
+Query:	         9 SASASGATASCGGAGSCVTSRCSATDRKST 98
+      	       +A+A GATA+CGGAG+C T   +AT   +T
+Sbjct:	       537 AAAAGGATATCGGAGTCTTGGAAATATGAT 566
+
+4477904.3.37501_5290293 vs 2507621959 bits=35.8094 log(E-value)=-0.882344 identity=52% aln-len=25 mismatch=12 gap-openings=0 nFrame=2
+Query:	         9 SASASGATASCGGAGSCVTSRCSAT 83
+      	       +A  +  TA+CGGAG+C T+ C+AT
+Sbjct:	      1503 AAGGAATTATCGGAGTCATTACTAT 1527
+
+4477904.3.37501_5290293 vs 2515813131 bits=34.6538 log(E-value)=-0.534474 identity=46.875% aln-len=32 mismatch=17 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRCSATDRKST 98
+      	       GA+A+A+  TA+CGGAG+C  +  +AT   +T
+Sbjct:	       576 GAAATATTTTATCGGAGTCGATAATATGTCTT 607
+
+4477904.3.37501_5290293 vs 649141984 bits=34.2686 log(E-value)=-0.418517 identity=59.0909% aln-len=22 mismatch=9 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTS 68
+      	       GA+ +A+G TA+CGGAG+C T+
+Sbjct:	     10759 GAATTATGCTATCGGAGTCGTT 10780
+
+4477904.3.37501_5290293 vs 645428302 bits=33.8834 log(E-value)=-0.302561 identity=48.1481% aln-len=27 mismatch=14 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRCSAT 83
+      	       G +  A+GATA+CGGAG+C  +  + T
+Sbjct:	      2265 GTACGAAGATATCGGAGTCAATCTTGT 2291
+
+4477904.3.37501_5290293 vs 645427916 bits=33.8834 log(E-value)=-0.302561 identity=48.1481% aln-len=27 mismatch=14 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRCSAT 83
+      	       G + +A+GATA+CGGAG+C  +  + T
+Sbjct:	       315 GCTCAAAGATATCGGAGTCGATTTTGT 341
+
+4477904.3.37501_5290293 vs 2104485916 bits=33.4982 log(E-value)=-0.186604 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVT 65
+      	       GA   A+ ATA+CGGAG+C T
+Sbjct:	       153 GAGCGATAATATCGGAGTCAT 173
+
+4477904.3.37501_5290293 vs 2514433777 bits=33.4982 log(E-value)=-0.186604 identity=48.1481% aln-len=27 mismatch=14 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRCSAT 83
+      	       G +  A+G TA+CGGAG+C  +  +AT
+Sbjct:	       338 GTATCAAGGTATCGGAGTCCGAAATAT 364
+
+4477904.3.37501_5290293 vs 2263859769 bits=33.4982 log(E-value)=-0.186604 identity=54.1667% aln-len=24 mismatch=11 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRC 74
+      	       G  A    ATA+CGGAG+C T+ C
+Sbjct:	       198 GGGACCGAATATCGGAGTCCTTCC 221
+
+4477904.3.37501_5290293 vs 651363388 bits=33.113 log(E-value)=-0.0706473 identity=43.3333% aln-len=30 mismatch=17 gap-openings=0 nFrame=2
+Query:	         9 SASASGATASCGGAGSCVTSRCSATDRKST 98
+      	       +   +G TA+CGGAG+C T+   AT   +T
+Sbjct:	       284 TGGGAGCTATCGGAGTCATTTTGATTGTTT 313
+
+4477904.3.37501_5290293 vs 2507799606 bits=33.113 log(E-value)=-0.0706473 identity=52.1739% aln-len=23 mismatch=11 gap-openings=0 nFrame=2
+Query:	         9 SASASGATASCGGAGSCVTSRCS 77
+      	       +A  +G TA+CGGAG+C T  C+
+Sbjct:	      5046 TACTAGCTATCGGAGTCTTGCCA 5068
+
+4477904.3.37501_5290293 vs 2515242367 bits=32.7278 log(E-value)=0.0453093 identity=50% aln-len=24 mismatch=12 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRC 74
+      	       GA+    G TA+CGGAG+C  + C
+Sbjct:	       655 GATTGCGGGTATCGGAGTCCGAGC 678
+
+4477904.3.37501_5290293 vs 646897454 bits=32.3426 log(E-value)=0.161266 identity=63.1579% aln-len=19 mismatch=7 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSC 59
+      	       G +A   GATA+CGGAG+C
+Sbjct:	      1917 GCAAGCGGATATCGGAGTC 1935
+
+4477904.3.37501_5290293 vs 637435661 bits=31.9574 log(E-value)=0.277223 identity=50% aln-len=26 mismatch=13 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRCSA 80
+      	       G   +A  ATA+CGGAG+C    C A
+Sbjct:	      1003 GCCGAAGCATATCGGAGTCTGCACGA 1028
+
+4477904.3.37501_5290293 vs 2508330275 bits=31.9574 log(E-value)=0.277223 identity=44.4444% aln-len=27 mismatch=15 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRCSAT 83
+      	       GA+ + +  TA+CGGAG+C  +  +AT
+Sbjct:	      4166 GAATTCAACTATCGGAGTCTGAATTAT 4192
+
+4477904.3.37501_5290293 vs 649507078 bits=31.9574 log(E-value)=0.277223 identity=40.625% aln-len=32 mismatch=19 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRCSATDRKST 98
+      	       GA  +A+  TA+CGGAG+C  +  + T   +T
+Sbjct:	      1442 GAGGTAATCTATCGGAGTCAATTTTTTGACAT 1473
+
+4477904.3.37501_5290293 vs 645335716 bits=31.5722 log(E-value)=0.393179 identity=48% aln-len=25 mismatch=13 gap-openings=0 nFrame=2
+Query:	         9 SASASGATASCGGAGSCVTSRCSAT 83
+      	       +   +G TA+CGGAG+C T+  +AT
+Sbjct:	      1085 TGGGAGCTATCGGAGTCGTTGAAAT 1109
+
+4477904.3.37501_5290293 vs 2508305909 bits=31.5722 log(E-value)=0.393179 identity=57.1429% aln-len=21 mismatch=9 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVT 65
+      	       GA+A+ +  TA+CGGAG+C T
+Sbjct:	      1353 GAAAAGATTTATCGGAGTCCT 1373
+
+4477904.3.37501_5290293 vs 2263963581 bits=31.5722 log(E-value)=0.393179 identity=45.8333% aln-len=24 mismatch=13 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSCVTSRCS 77
+      	       A+ +   ATA+CGGAG+C    C+
+Sbjct:	        89 ATTATGAATATCGGAGTCAAGACA 112
+
+4477904.3.37501_5290293 vs 643895048 bits=31.5722 log(E-value)=0.393179 identity=60% aln-len=20 mismatch=8 gap-openings=0 nFrame=2
+Query:	         9 SASASGATASCGGAGSCVTS 68
+      	       +A A+ ATA+CGGAG+C T+
+Sbjct:	       692 AACAAAATATCGGAGTCATT 711
+
+4477904.3.37501_5290293 vs 649143163 bits=31.5722 log(E-value)=0.393179 identity=55% aln-len=20 mismatch=9 gap-openings=0 nFrame=2
+Query:	        21 SGATASCGGAGSCVTSRCSA 80
+      	       +  TA+CGGAG+C T+ C+A
+Sbjct:	     20517 AATTATCGGAGTCATAGCAA 20536
+
+4477904.3.37501_5290293 vs 637721272 bits=31.187 log(E-value)=0.509136 identity=57.8947% aln-len=19 mismatch=8 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSC 59
+      	       G + +  GATA+CGGAG+C
+Sbjct:	       234 GCTTTCGGATATCGGAGTC 252
+
+4477904.3.37501_5290293 vs 2513173191 bits=31.187 log(E-value)=0.509136 identity=41.9355% aln-len=31 mismatch=18 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSCVTSRCSATDRKST 98
+      	       A+A+ +  TA+CGGAG+C T+  + T   +T
+Sbjct:	       121 AAAATACGTATCGGAGTCATTGGAGTGAATT 151
+
+4477904.3.37501_5290293 vs 646318019 bits=31.187 log(E-value)=0.509136 identity=47.8261% aln-len=23 mismatch=12 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSCVTSRC 74
+      	       A+   +  TA+CGGAG+C T+ C
+Sbjct:	       403 ATCGGTTTTATCGGAGTCTTTAC 425
+
+4477904.3.37501_5290293 vs 2508327720 bits=30.8018 log(E-value)=0.625092 identity=52.381% aln-len=21 mismatch=10 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVT 65
+      	       G   +  G TA+CGGAG+C T
+Sbjct:	     33938 GGGTATCGTTATCGGAGTCAT 33958
+
+4477904.3.37501_5290293 vs 650728472 bits=30.8018 log(E-value)=0.625092 identity=57.8947% aln-len=19 mismatch=8 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSC 59
+      	       G  A+ +G TA+CGGAG+C
+Sbjct:	       381 GGCAATAGCTATCGGAGTC 399
+
+4477904.3.37501_5290293 vs 2517019722 bits=30.8018 log(E-value)=0.625092 identity=57.8947% aln-len=19 mismatch=8 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSC 59
+      	       G +A  +G TA+CGGAG+C
+Sbjct:	      1518 GCTACGAGTTATCGGAGTC 1536
+
+4477904.3.37501_5290293 vs 638720181 bits=30.8018 log(E-value)=0.625092 identity=50% aln-len=24 mismatch=12 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRC 74
+      	       GA+     ATA+CGGAG+C  + C
+Sbjct:	       534 GAAGGCGCATATCGGAGTCGATGC 557
+
+4477904.3.37501_5290293 vs 637419875 bits=30.4166 log(E-value)=0.741049 identity=64.7059% aln-len=17 mismatch=6 gap-openings=0 nFrame=2
+Query:	        30 TASCGGAGSCVTSRCSA 80
+      	       TA+CGGAG+C T+ C+A
+Sbjct:	       549 TATCGGAGTCGTAACAA 565
+
+4477904.3.37501_5290293 vs 2512829277 bits=30.4166 log(E-value)=0.741049 identity=66.6667% aln-len=18 mismatch=6 gap-openings=0 nFrame=2
+Query:	        27 ATASCGGAGSCVTSRCSA 80
+      	       ATA+CGGAG+C T  C A
+Sbjct:	      1226 ATATCGGAGTCGTGGCCA 1243
+
+4477904.3.37501_5290293 vs 640802682 bits=30.4166 log(E-value)=0.741049 identity=53.8462% aln-len=26 mismatch=12 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSCVTSRCSAT 83
+      	       A A A+ ATA+CGGAG+C     +AT
+Sbjct:	        49 ACACAATATATCGGAGTCGCCTTTAT 74
+
+4477904.3.37501_5290293 vs 2155485730 bits=30.4166 log(E-value)=0.741049 identity=57.8947% aln-len=19 mismatch=8 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSC 59
+      	       GA+    G TA+CGGAG+C
+Sbjct:	       714 GATCGCCGGTATCGGAGTC 732
+
+4477904.3.37501_5290293 vs 639502669 bits=30.0314 log(E-value)=0.857006 identity=61.1111% aln-len=18 mismatch=7 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSC 59
+      	       A+   +GATA+CGGAG+C
+Sbjct:	      9643 ATTCCTGATATCGGAGTC 9660
+
+4477904.3.37501_5290293 vs 643751660 bits=30.0314 log(E-value)=0.857006 identity=45.8333% aln-len=24 mismatch=13 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSCVTSRCS 77
+      	       A+ +A   TA+CGGAG+C    C+
+Sbjct:	       499 AACAACTTTATCGGAGTCAACTCT 522
+
+4477904.3.37501_5290293 vs 647449416 bits=30.0314 log(E-value)=0.857006 identity=78.5714% aln-len=14 mismatch=3 gap-openings=0 nFrame=2
+Query:	        18 ASGATASCGGAGSC 59
+      	       A+GATA+CGGAG+C
+Sbjct:	       284 AAGATATCGGAGTC 297
+
+4477904.3.37501_5290293 vs 2508272850 bits=29.6462 log(E-value)=0.972962 identity=42.3077% aln-len=26 mismatch=15 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSCVTSRCSAT 83
+      	       A+ + +  TA+CGGAG+C T   + T
+Sbjct:	      2072 ATGTTTTGTATCGGAGTCTTGGAAGT 2097
+
+4477904.3.37501_5290293 vs 650916037 bits=29.6462 log(E-value)=0.972962 identity=57.8947% aln-len=19 mismatch=8 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSC 59
+      	       GA+   + ATA+CGGAG+C
+Sbjct:	       843 GAATGGATATATCGGAGTC 861
+
+4477904.3.37501_5290293 vs 649093236 bits=29.6462 log(E-value)=0.972962 identity=52.6316% aln-len=19 mismatch=9 gap-openings=0 nFrame=2
+Query:	        21 SGATASCGGAGSCVTSRCS 77
+      	       + ATA+CGGAG+C  + C+
+Sbjct:	     57166 AAATATCGGAGTCCAAACT 57184
+
+4477904.3.37501_5290293 vs 2511546739 bits=29.6462 log(E-value)=0.972962 identity=42.3077% aln-len=26 mismatch=15 gap-openings=0 nFrame=2
+Query:	         3 GASASASGATASCGGAGSCVTSRCSA 80
+      	       G   + +G TA+CGGAG+C  +  +A
+Sbjct:	        22 GGCCATTGCTATCGGAGTCCGATTTA 47
+
+4477904.3.37501_5290293 vs 2507047866 bits=29.6462 log(E-value)=0.972962 identity=61.1111% aln-len=18 mismatch=7 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSC 59
+      	       A+    GATA+CGGAG+C
+Sbjct:	       259 AAGGGCGATATCGGAGTC 276
+
+4477904.3.37501_5290293 vs 2168558634 bits=29.6462 log(E-value)=0.972962 identity=42.3077% aln-len=26 mismatch=15 gap-openings=0 nFrame=2
+Query:	         6 ASASASGATASCGGAGSCVTSRCSAT 83
+      	       A+   + ATA+CGGAG+C  +  + T
+Sbjct:	       265 ATTGGTTATATCGGAGTCTATTATTT 290
+
+4477904.3.37501_5290493 vs 2508068770 bits=32.7278 log(E-value)=0.0453093 identity=43.75% aln-len=32 mismatch=18 gap-openings=0 nFrame=5
+Query:	        98 SSTGACGSTGRDVPITAVSSTTSPASVTQVAT 3
+      	       ++TGACG+TG     TA  +TT+  + T  AT
+Sbjct:	       748 TTTGACGTTGATTTATATGATTTGTTTTATAT 779
+
+4477904.3.37501_5290493 vs 2507949185 bits=31.187 log(E-value)=0.509136 identity=43.75% aln-len=32 mismatch=18 gap-openings=0 nFrame=5
+Query:	        98 SSTGACGSTGRDVPITAVSSTTSPASVTQVAT 3
+      	       ++TGACG+TG     TA ++TT  A+ T   T
+Sbjct:	      6429 TTTGACGTTGTTCTTTAAAATTGAAAGTTCTT 6460
+
+4477904.3.37501_5294159 vs 649268535 bits=30.4166 log(E-value)=0.741049 identity=66.6667% aln-len=18 mismatch=6 gap-openings=0 nFrame=3
+Query:	       100 CAGTATTASSCAILSGRC 47
+      	       CAGTATTA++CA  +G C
+Sbjct:	      1938 CAGTATTATTCAAGTGAC 1955
+
+4477904.3.37501_5294159 vs 639400596 bits=30.0314 log(E-value)=0.857006 identity=66.6667% aln-len=18 mismatch=6 gap-openings=0 nFrame=3
+Query:	       100 CAGTATTASSCAILSGRC 47
+      	       CAGTATTA++CA   G C
+Sbjct:	     16178 CAGTATTATTCAGTGGTC 16195
+
+4477904.3.37501_5294159 vs 650587881 bits=30.0314 log(E-value)=0.857006 identity=61.1111% aln-len=18 mismatch=7 gap-openings=0 nFrame=3
+Query:	       100 CAGTATTASSCAILSGRC 47
+      	       C GTATTA++CA  +G C
+Sbjct:	       214 CTGTATTATTCACCTGTC 231
+
+4477904.3.37501_5294489 vs 642218293 bits=33.4982 log(E-value)=-0.186604 identity=41.9355% aln-len=31 mismatch=18 gap-openings=0 nFrame=4
+Query:	        96 SATASAPRGLTRRRPCGGCGRCSTGCSSTTA 4
+      	       + T +   G T     GGC  C+TGC++TTA
+Sbjct:	      1653 TTTTTTTAGTTTTATTGGCAGCTTGCTTTTA 1683
+
+4477904.3.37501_5294489 vs 2507952735 bits=33.4982 log(E-value)=-0.186604 identity=45.1613% aln-len=31 mismatch=17 gap-openings=0 nFrame=4
+Query:	        96 SATASAPRGLTRRRPCGGCGRCSTGCSSTTA 4
+      	       + TA+A  G T    C G   C+TGC++TTA
+Sbjct:	    152124 TGTATATTGCTTTTTCTGATACTTGCTTTTA 152154
+
+4477904.3.37501_5294489 vs 2512475801 bits=31.187 log(E-value)=0.509136 identity=44.8276% aln-len=29 mismatch=16 gap-openings=0 nFrame=4
+Query:	        90 TASAPRGLTRRRPCGGCGRCSTGCSSTTA 4
+      	       T +A    T    C  CG C+TGC++TTA
+Sbjct:	        42 TTTATGTTTTGTCCTACGACTTGCTTTTA 70
+
+4477904.3.37501_5294489 vs 639470107 bits=31.187 log(E-value)=0.509136 identity=41.9355% aln-len=31 mismatch=18 gap-openings=0 nFrame=4
+Query:	        96 SATASAPRGLTRRRPCGGCGRCSTGCSSTTA 4
+      	       +A A      T     GGC  C+TGC++TTA
+Sbjct:	     23619 AAAAGGAAACTTCTAAGGCACCTTGCTTTTA 23649
+
+4477904.3.37501_5294489 vs 2507761112 bits=30.8018 log(E-value)=0.625092 identity=38.7097% aln-len=31 mismatch=19 gap-openings=0 nFrame=4
+Query:	        96 SATASAPRGLTRRRPCGGCGRCSTGCSSTTA 4
+      	       + TA+          C G G C+TGC++TTA
+Sbjct:	     58256 ATTAATTAAAAGAAACAGTGTCTTGCTTTTA 58286
+
+4477904.3.37501_5294489 vs 639332725 bits=30.4166 log(E-value)=0.741049 identity=62.5% aln-len=16 mismatch=6 gap-openings=0 nFrame=4
+Query:	        51 CGGCGRCSTGCSSTTA 4
+      	       C GC  C+TGC++TTA
+Sbjct:	     38462 CTGCAACTTGCTTTTA 38477
+
+4477904.3.37501_5294489 vs 641075096 bits=30.4166 log(E-value)=0.741049 identity=62.5% aln-len=16 mismatch=6 gap-openings=0 nFrame=4
+Query:	        51 CGGCGRCSTGCSSTTA 4
+      	       C  CG C+TGC++TTA
+Sbjct:	       549 CATCGTCTTGCTTTTA 564
+
+4477904.3.37501_5294489 vs 639430645 bits=30.4166 log(E-value)=0.741049 identity=62.5% aln-len=16 mismatch=6 gap-openings=0 nFrame=4
+Query:	        51 CGGCGRCSTGCSSTTA 4
+      	       C GC  C+TGC++TTA
+Sbjct:	     56863 CAGCTTCTTGCTTTTA 56878
+
+4477904.3.37501_5294489 vs 639439922 bits=30.0314 log(E-value)=0.857006 identity=62.5% aln-len=16 mismatch=6 gap-openings=0 nFrame=4
+Query:	        51 CGGCGRCSTGCSSTTA 4
+      	       C GC  C+TGC++TTA
+Sbjct:	      2734 CTGCAGCTTGCTTTTA 2749
+
+4477904.3.37501_5294489 vs 640974180 bits=29.6462 log(E-value)=0.972962 identity=62.5% aln-len=16 mismatch=6 gap-openings=0 nFrame=4
+Query:	        51 CGGCGRCSTGCSSTTA 4
+      	       C GC  C+TGC++TTA
+Sbjct:	       403 CCGCAGCTTGCTTTTA 418
+
+4477904.3.37501_5294489 vs 639377933 bits=29.6462 log(E-value)=0.972962 identity=62.5% aln-len=16 mismatch=6 gap-openings=0 nFrame=4
+Query:	        51 CGGCGRCSTGCSSTTA 4
+      	       C G G C+TGC++TTA
+Sbjct:	     71934 CAGAGGCTTGCTTTTA 71949
+
+4477904.3.37501_5294489 vs 643921754 bits=29.6462 log(E-value)=0.972962 identity=35.4839% aln-len=31 mismatch=20 gap-openings=0 nFrame=4
+Query:	        96 SATASAPRGLTRRRPCGGCGRCSTGCSSTTA 4
+      	       + T +   G      C  C  C+TGC++TTA
+Sbjct:	       379 AGTGATAAGCAAATACTTCAACTTGCTTTTA 409
+
+4477904.3.37501_5294489 vs 640366521 bits=29.6462 log(E-value)=0.972962 identity=41.9355% aln-len=31 mismatch=18 gap-openings=0 nFrame=4
+Query:	        96 SATASAPRGLTRRRPCGGCGRCSTGCSSTTA 4
+      	       +AT +A  G T    C     C+TGC++TTA
+Sbjct:	       226 AATGTAATGCTACAACCATTACTTGCTTTTA 256
+
+4477904.3.37501_5294649 vs 639387212 bits=30.4166 log(E-value)=0.741049 identity=43.3333% aln-len=30 mismatch=17 gap-openings=0 nFrame=1
+Query:	         8 GPPRSSGPPTSTSGTAASGPCRGATSRSTS 97
+      	       G   + G  T+T+GTAA+G C GA + +T+
+Sbjct:	     26679 GTTAAGGAATTTTGTAATGTCTGACTCTTT 26708
+
+4477904.3.37501_5294649 vs 648829501 bits=30.4166 log(E-value)=0.741049 identity=54.5455% aln-len=22 mismatch=10 gap-openings=0 nFrame=1
+Query:	        35 TSTSGTAASGPCRGATSRSTSG 100
+      	       T+T+GTAA+G C G T+ +T+G
+Sbjct:	        93 TTTTGTAATGGCGGCTTTTTTG 114
+
+4477904.3.37501_5294649 vs 2516212937 bits=30.4166 log(E-value)=0.741049 identity=54.5455% aln-len=22 mismatch=10 gap-openings=0 nFrame=1
+Query:	        35 TSTSGTAASGPCRGATSRSTSG 100
+      	       T+T+GTAA+G C G T+ +T+G
+Sbjct:	       204 TTTTGTAATGGCGGCTTTTTTG 225
+
+4477904.3.37501_5294649 vs 2512380422 bits=30.0314 log(E-value)=0.857006 identity=59.0909% aln-len=22 mismatch=9 gap-openings=0 nFrame=1
+Query:	        35 TSTSGTAASGPCRGATSRSTSG 100
+      	       T+T+GTAA+G C GAT   T+G
+Sbjct:	      1035 TTTTGTAATGGCCGATGGCTTG 1056
+
+4477904.3.37501_5294924 vs 2514373190 bits=30.0314 log(E-value)=0.857006 identity=46.4286% aln-len=28 mismatch=15 gap-openings=0 nFrame=5
+Query:	        86 SAASTGTSCAKRATPTPPSSSKTAAGRC 3
+      	       +AA+TGT+CA  AT T  + +   AG C
+Sbjct:	      3585 TAATTGTTCAGTATATTTTCATATAGAC 3612
+
+4477904.3.37501_5294924 vs 639485009 bits=29.6462 log(E-value)=0.972962 identity=43.3333% aln-len=30 mismatch=17 gap-openings=0 nFrame=5
+Query:	        92 TRSAASTGTSCAKRATPTPPSSSKTAAGRC 3
+      	       T +AA+TGT+CA  AT T  +++  A   C
+Sbjct:	      7645 TTTAATTGTTCAAAATCTATTTTTAACATC 7674
+
+4477904.3.37501_5303675 vs 639433775 bits=35.8094 log(E-value)=-0.880056 identity=61.5385% aln-len=26 mismatch=10 gap-openings=0 nFrame=5
+Query:	        79 ATGSPPPTRDAATCCAGSCAAPCARC 2
+      	       AT +   T  AATCCAG+CAA CA C
+Sbjct:	      8412 ATCTCGTTCGAATCCAGTCAATCAAC 8437
+
+4477904.3.37501_5303675 vs 639390610 bits=34.6538 log(E-value)=-0.532186 identity=81.25% aln-len=16 mismatch=3 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CAA CA C
+Sbjct:	     15894 AATCCAGTCAAGCAAC 15909
+
+4477904.3.37501_5303675 vs 639446735 bits=34.6538 log(E-value)=-0.532186 identity=81.25% aln-len=16 mismatch=3 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CAA CA C
+Sbjct:	    206287 AATCCAGTCAAACAGC 206302
+
+4477904.3.37501_5303675 vs 2508433478 bits=34.2686 log(E-value)=-0.416229 identity=81.25% aln-len=16 mismatch=3 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CAA CA C
+Sbjct:	     11391 AATCCAGTCAACCATC 11406
+
+4477904.3.37501_5303675 vs 2508422817 bits=33.8834 log(E-value)=-0.300273 identity=68.4211% aln-len=19 mismatch=6 gap-openings=0 nFrame=5
+Query:	        58 TRDAATCCAGSCAAPCARC 2
+      	       T  AATCCAG+CAA C  C
+Sbjct:	      6644 TGAAATCCAGTCAATCTTC 6662
+
+4477904.3.37501_5303675 vs 639548063 bits=33.4982 log(E-value)=-0.184316 identity=75% aln-len=16 mismatch=4 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CAA C  C
+Sbjct:	      3424 AATCCAGTCAAACTTC 3439
+
+4477904.3.37501_5303675 vs 639527711 bits=33.4982 log(E-value)=-0.184316 identity=75% aln-len=16 mismatch=4 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CA  CA C
+Sbjct:	       594 AATCCAGTCATTCATC 609
+
+4477904.3.37501_5303675 vs 648050093 bits=33.4982 log(E-value)=-0.184316 identity=80% aln-len=15 mismatch=3 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCARC 2
+      	       ATCCAG+CAA CA C
+Sbjct:	       506 ATCCAGTCAAACAAC 520
+
+4477904.3.37501_5303675 vs 2155383896 bits=33.113 log(E-value)=-0.0683593 identity=68.4211% aln-len=19 mismatch=6 gap-openings=0 nFrame=5
+Query:	        58 TRDAATCCAGSCAAPCARC 2
+      	       T  AATCCAG+CA  CA C
+Sbjct:	       929 TACAATCCAGTCACCCATC 947
+
+4477904.3.37501_5303675 vs 637895681 bits=32.7278 log(E-value)=0.0475974 identity=75% aln-len=16 mismatch=4 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CAA C  C
+Sbjct:	       327 AATCCAGTCAATCTCC 342
+
+4477904.3.37501_5303675 vs 639446735 bits=32.7278 log(E-value)=0.0475974 identity=75% aln-len=16 mismatch=4 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CA  CA C
+Sbjct:	    201392 AATCCAGTCAGGCAGC 201407
+
+4477904.3.37501_5303675 vs 639451207 bits=32.7278 log(E-value)=0.0475974 identity=80% aln-len=15 mismatch=3 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCARC 2
+      	       ATCCAG+CAA CA C
+Sbjct:	    246566 ATCCAGTCAACCATC 246580
+
+4477904.3.37501_5303675 vs 647759381 bits=32.3426 log(E-value)=0.163554 identity=76.4706% aln-len=17 mismatch=4 gap-openings=0 nFrame=5
+Query:	        58 TRDAATCCAGSCAAPCA 8
+      	       T  AATCCAG+CAA CA
+Sbjct:	       751 TCGAATCCAGTCAATCA 767
+
+4477904.3.37501_5303675 vs 642043661 bits=32.3426 log(E-value)=0.163554 identity=76.4706% aln-len=17 mismatch=4 gap-openings=0 nFrame=5
+Query:	        58 TRDAATCCAGSCAAPCA 8
+      	       T  AATCCAG+CAA CA
+Sbjct:	       967 TTAAATCCAGTCAAGCA 983
+
+4477904.3.37501_5303675 vs 647699466 bits=31.9574 log(E-value)=0.279511 identity=85.7143% aln-len=14 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCA 8
+      	       AATCCAG+CAA CA
+Sbjct:	       748 AATCCAGTCAATCA 761
+
+4477904.3.37501_5303675 vs 2105864064 bits=31.9574 log(E-value)=0.279511 identity=73.3333% aln-len=15 mismatch=4 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCARC 2
+      	       ATCCAG+CAA C  C
+Sbjct:	       148 ATCCAGTCAATCTAC 162
+
+4477904.3.37501_5303675 vs 649307055 bits=31.9574 log(E-value)=0.279511 identity=73.3333% aln-len=15 mismatch=4 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCARC 2
+      	       ATCCAG+CAA C  C
+Sbjct:	       782 ATCCAGTCAAACCTC 796
+
+4477904.3.37501_5303675 vs 649320447 bits=31.9574 log(E-value)=0.279511 identity=85.7143% aln-len=14 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCA 8
+      	       AATCCAG+CAA CA
+Sbjct:	      1618 AATCCAGTCAAACA 1631
+
+4477904.3.37501_5303675 vs 639015063 bits=31.9574 log(E-value)=0.279511 identity=85.7143% aln-len=14 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCA 8
+      	       AATCCAG+CAA CA
+Sbjct:	       488 AATCCAGTCAAACA 501
+
+4477904.3.37501_5303675 vs 2508339085 bits=31.9574 log(E-value)=0.279511 identity=75% aln-len=16 mismatch=4 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CA  CA C
+Sbjct:	     26789 AATCCAGTCACCCACC 26804
+
+4477904.3.37501_5303675 vs 639423098 bits=31.5722 log(E-value)=0.395467 identity=85.7143% aln-len=14 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCA 8
+      	       AATCCAG+CAA CA
+Sbjct:	     95801 AATCCAGTCAAGCA 95814
+
+4477904.3.37501_5303675 vs 2506619601 bits=31.5722 log(E-value)=0.395467 identity=73.3333% aln-len=15 mismatch=4 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCARC 2
+      	       ATCCAG+CAA C  C
+Sbjct:	      1180 ATCCAGTCAAACGGC 1194
+
+4477904.3.37501_5303675 vs 2507949920 bits=31.5722 log(E-value)=0.395467 identity=73.3333% aln-len=15 mismatch=4 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCARC 2
+      	       ATCCAG+CAA C  C
+Sbjct:	      7714 ATCCAGTCAATCCGC 7728
+
+4477904.3.37501_5303675 vs 2512647306 bits=31.187 log(E-value)=0.511424 identity=85.7143% aln-len=14 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCA 8
+      	       AATCCAG+CAA CA
+Sbjct:	        31 AATCCAGTCAACCA 44
+
+4477904.3.37501_5303675 vs 649513472 bits=31.187 log(E-value)=0.511424 identity=85.7143% aln-len=14 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCA 8
+      	       AATCCAG+CAA CA
+Sbjct:	       204 AATCCAGTCAACCA 217
+
+4477904.3.37501_5303675 vs 639446786 bits=31.187 log(E-value)=0.511424 identity=56.5217% aln-len=23 mismatch=10 gap-openings=0 nFrame=5
+Query:	        76 TGSPPPTRDAATCCAGSCAAPCA 8
+      	       T     T  AATCCAG+CA  CA
+Sbjct:	     60676 TAGAGATAAAATCCAGTCATGCA 60698
+
+4477904.3.37501_5303675 vs 639439983 bits=31.187 log(E-value)=0.511424 identity=66.6667% aln-len=21 mismatch=7 gap-openings=0 nFrame=5
+Query:	        79 ATGSPPPTRDAATCCAGSCAA 17
+      	       ATG+   T  AATCCAG+CAA
+Sbjct:	     39714 ATGTGGCTCTAATCCAGTCAA 39734
+
+4477904.3.37501_5303675 vs 646034425 bits=31.187 log(E-value)=0.511424 identity=68.75% aln-len=16 mismatch=5 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CA  C  C
+Sbjct:	       453 AATCCAGTCAGGCGGC 468
+
+4477904.3.37501_5303675 vs 642812657 bits=31.187 log(E-value)=0.511424 identity=73.3333% aln-len=15 mismatch=4 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCARC 2
+      	       ATCCAG+CAA C  C
+Sbjct:	       310 ATCCAGTCAACCTTC 324
+
+4477904.3.37501_5303675 vs 650306527 bits=31.187 log(E-value)=0.511424 identity=75% aln-len=16 mismatch=4 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CAA  A C
+Sbjct:	       318 AATCCAGTCAAGAATC 333
+
+4477904.3.37501_5303675 vs 649553500 bits=31.187 log(E-value)=0.511424 identity=73.3333% aln-len=15 mismatch=4 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCARC 2
+      	       ATCCAG+CAA C  C
+Sbjct:	     44048 ATCCAGTCAAACCCC 44062
+
+4477904.3.37501_5303675 vs 2509210757 bits=31.187 log(E-value)=0.511424 identity=61.9048% aln-len=21 mismatch=8 gap-openings=0 nFrame=5
+Query:	        79 ATGSPPPTRDAATCCAGSCAA 17
+      	       A G    T  AATCCAG+CAA
+Sbjct:	        69 AAGGATATTTAATCCAGTCAA 89
+
+4477904.3.37501_5303675 vs 2508368959 bits=30.8018 log(E-value)=0.62738 identity=70.5882% aln-len=17 mismatch=5 gap-openings=0 nFrame=5
+Query:	        58 TRDAATCCAGSCAAPCA 8
+      	       T   ATCCAG+CAA CA
+Sbjct:	      1000 TACGATCCAGTCAAACA 1016
+
+4477904.3.37501_5303675 vs 2508141818 bits=30.8018 log(E-value)=0.62738 identity=70.5882% aln-len=17 mismatch=5 gap-openings=0 nFrame=5
+Query:	        58 TRDAATCCAGSCAAPCA 8
+      	       T   ATCCAG+CAA CA
+Sbjct:	      2527 TCTTATCCAGTCAATCA 2543
+
+4477904.3.37501_5303675 vs 2264017677 bits=30.8018 log(E-value)=0.62738 identity=75% aln-len=16 mismatch=4 gap-openings=0 nFrame=5
+Query:	        58 TRDAATCCAGSCAAPC 11
+      	       T  AATCCAG+CAA C
+Sbjct:	       240 TGAAATCCAGTCAAAC 255
+
+4477904.3.37501_5303675 vs 2508424787 bits=30.4166 log(E-value)=0.743337 identity=84.6154% aln-len=13 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPC 11
+      	       AATCCAG+CAA C
+Sbjct:	      8664 AATCCAGTCAATC 8676
+
+4477904.3.37501_5303675 vs 639438723 bits=30.4166 log(E-value)=0.743337 identity=68.75% aln-len=16 mismatch=5 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CA  C  C
+Sbjct:	      2546 AATCCAGTCAGCCCCC 2561
+
+4477904.3.37501_5303675 vs 2508427988 bits=30.4166 log(E-value)=0.743337 identity=84.6154% aln-len=13 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPC 11
+      	       AATCCAG+CAA C
+Sbjct:	     34684 AATCCAGTCAATC 34696
+
+4477904.3.37501_5303675 vs 639659634 bits=30.4166 log(E-value)=0.743337 identity=78.5714% aln-len=14 mismatch=3 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCA 8
+      	       AATCCAG+CA  CA
+Sbjct:	        33 AATCCAGTCATACA 46
+
+4477904.3.37501_5303675 vs 645764437 bits=30.4166 log(E-value)=0.743337 identity=54.1667% aln-len=24 mismatch=11 gap-openings=0 nFrame=5
+Query:	        73 GSPPPTRDAATCCAGSCAAPCARC 2
+      	       G+   T  AATCCAG+CA   A C
+Sbjct:	      2625 GATTCTACAATCCAGTCACCAATC 2648
+
+4477904.3.37501_5303675 vs 2004006651 bits=30.4166 log(E-value)=0.743337 identity=78.5714% aln-len=14 mismatch=3 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCA 8
+      	       AATCCAG+CA  CA
+Sbjct:	       308 AATCCAGTCAGACA 321
+
+4477904.3.37501_5303675 vs 647719116 bits=30.4166 log(E-value)=0.743337 identity=84.6154% aln-len=13 mismatch=2 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCA 8
+      	       ATCCAG+CAA CA
+Sbjct:	       731 ATCCAGTCAAACA 743
+
+4477904.3.37501_5303675 vs 2512474528 bits=30.4166 log(E-value)=0.743337 identity=63.1579% aln-len=19 mismatch=7 gap-openings=0 nFrame=5
+Query:	        58 TRDAATCCAGSCAAPCARC 2
+      	       T  AATCCAG+CAA    C
+Sbjct:	       926 TGGAATCCAGTCAAAAGGC 944
+
+4477904.3.37501_5303675 vs 647727730 bits=30.4166 log(E-value)=0.743337 identity=75% aln-len=16 mismatch=4 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCARC 2
+      	       AATCCAG+CAA  A C
+Sbjct:	       387 AATCCAGTCAAAGATC 402
+
+4477904.3.37501_5303675 vs 639603679 bits=30.4166 log(E-value)=0.743337 identity=54.1667% aln-len=24 mismatch=11 gap-openings=0 nFrame=5
+Query:	        79 ATGSPPPTRDAATCCAGSCAAPCA 8
+      	       ATG+      AATCCAG+CA   A
+Sbjct:	      3264 ATGAAAAATCAATCCAGTCACAAA 3287
+
+4477904.3.37501_5303675 vs 645785365 bits=30.4166 log(E-value)=0.743337 identity=84.6154% aln-len=13 mismatch=2 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCA 8
+      	       ATCCAG+CAA CA
+Sbjct:	      7871 ATCCAGTCAATCA 7883
+
+4477904.3.37501_5303675 vs 639403502 bits=30.4166 log(E-value)=0.743337 identity=84.6154% aln-len=13 mismatch=2 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCA 8
+      	       ATCCAG+CAA CA
+Sbjct:	      1089 ATCCAGTCAAACA 1101
+
+4477904.3.37501_5303675 vs 2508032895 bits=30.4166 log(E-value)=0.743337 identity=84.6154% aln-len=13 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPC 11
+      	       AATCCAG+CAA C
+Sbjct:	       767 AATCCAGTCAATC 779
+
+4477904.3.37501_5303675 vs 649126967 bits=30.0314 log(E-value)=0.859294 identity=65% aln-len=20 mismatch=7 gap-openings=0 nFrame=5
+Query:	        76 TGSPPPTRDAATCCAGSCAA 17
+      	       TG+   T  AATCCAG+CAA
+Sbjct:	      2078 TGATTCTGCAATCCAGTCAA 2097
+
+4477904.3.37501_5303675 vs 639357663 bits=30.0314 log(E-value)=0.859294 identity=78.5714% aln-len=14 mismatch=3 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPCA 8
+      	       AATCCAG+CA  CA
+Sbjct:	     20884 AATCCAGTCACGCA 20897
+
+4477904.3.37501_5303675 vs 639357704 bits=30.0314 log(E-value)=0.859294 identity=84.6154% aln-len=13 mismatch=2 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCA 8
+      	       ATCCAG+CAA CA
+Sbjct:	    226228 ATCCAGTCAAGCA 226240
+
+4477904.3.37501_5303675 vs 641571640 bits=30.0314 log(E-value)=0.859294 identity=84.6154% aln-len=13 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPC 11
+      	       AATCCAG+CAA C
+Sbjct:	      2064 AATCCAGTCAAGC 2076
+
+4477904.3.37501_5303675 vs 2507740877 bits=30.0314 log(E-value)=0.859294 identity=73.3333% aln-len=15 mismatch=4 gap-openings=0 nFrame=5
+Query:	        46 ATCCAGSCAAPCARC 2
+      	       ATCCAG+CAA  A C
+Sbjct:	      2616 ATCCAGTCAAAAATC 2630
+
+4477904.3.37501_5303675 vs 2512441230 bits=30.0314 log(E-value)=0.859294 identity=68.75% aln-len=16 mismatch=5 gap-openings=0 nFrame=5
+Query:	        58 TRDAATCCAGSCAAPC 11
+      	       T  AATCCAG+CA  C
+Sbjct:	       194 TAGAATCCAGTCAGTC 209
+
+4477904.3.37501_5303675 vs 2086450634 bits=30.0314 log(E-value)=0.859294 identity=84.6154% aln-len=13 mismatch=2 gap-openings=0 nFrame=5
+Query:	        49 AATCCAGSCAAPC 11
+      	       AATCCAG+CAA C
+Sbjct:	      1493 AATCCAGTCAAGC 1505
+
